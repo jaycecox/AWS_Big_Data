@@ -1,6 +1,6 @@
 # AWS_Big_Data
  
-** Purpose
+**Purpose
 
 Determine if any bias exists toward favorable reviews from Vine member.
 
