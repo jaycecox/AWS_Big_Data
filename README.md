@@ -13,3 +13,12 @@ Vine Reviews
 Non Vine Reviews
 
 ![non vine reviews](https://user-images.githubusercontent.com/92542382/154870020-e15e2140-6db4-42fe-8ab9-2d83ff6bb5b9.PNG)
+
+Vine 5 Star Reviews
+
+![paid star review](https://user-images.githubusercontent.com/92542382/154870559-01f6d933-7186-4081-a8cc-456075aed2c2.PNG)
+
+Non-Vine 5 Star Reviews
+
+![unpaid star review](https://user-images.githubusercontent.com/92542382/154870619-46b6ff1f-c36d-4454-9c94-d86cc37bb665.PNG)
+
