@@ -22,10 +22,10 @@ Non-Vine 5 Star Reviews
 
 ![unpaid star review](https://user-images.githubusercontent.com/92542382/154870619-46b6ff1f-c36d-4454-9c94-d86cc37bb665.PNG)
 
-Percentage 5 Star Reviews
+Percentage Vine 5 Star Reviews
 
 ![% 5 Star Reviews](https://user-images.githubusercontent.com/92542382/154870678-8b72517a-12d4-475f-946b-56d5786e3d80.PNG)
 
-Percentage non 5 Star Reviews
+Percentage non Vine   5 Star Reviews
 
 ![% non vine reviews](https://user-images.githubusercontent.com/92542382/154870721-32ed2764-31f2-438d-b324-3d76e553d187.PNG)
