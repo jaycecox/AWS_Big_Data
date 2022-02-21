@@ -2,7 +2,7 @@
  
 Purpose
 
-Determine if any bias exists toward favorable reviews from Vine member.
+Determine if any bias exists toward favorable reviews from Vine members.
 
 Results
 
