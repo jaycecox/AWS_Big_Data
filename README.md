@@ -29,3 +29,5 @@ Percentage Vine 5 Star Reviews
 Percentage non Vine   5 Star Reviews
 
 ![% non vine reviews](https://user-images.githubusercontent.com/92542382/154870721-32ed2764-31f2-438d-b324-3d76e553d187.PNG)
+
+Based on the results, there is no difference  in positivity bias for 5 star reviews in the Vine program than for 5 star reviews in the non Vine program.
